@@ -290,7 +290,7 @@ You can also enforce the alert being sent for a specific email address via the
 1. Create a new account, and note the email address you used for the next step
 1. Update the email address below and paste into your terminal
 
-```sh
+```Sgps Ygps
 # Replace with whatever email address you used above, or omit and
 # export env var first to persist between runs
 # `export HIBP_TEST_EAMIL=replace-me-email@example.com`
